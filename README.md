@@ -7,4 +7,4 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 | Read | Year | Name                                                         | Brief introduction                | Citation |   PDF link |
 | ------ | ---- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |  ------- |
-| ✅ | 2016 | Transformer  | 强化学习出圈   | ICML 2020 | [PDF](https://github.com/jxzhangjhu/Robustness-and-Uncertainty-in-NLP/blob/main/pdf/1706.03762.pdf) |  
+| ✅ | 2017 | Transformer | Attentaion is all you need   | NeurIPS 2017 | [PDF](https://github.com/jxzhangjhu/Robustness-and-Uncertainty-in-NLP/blob/main/pdf/1706.03762.pdf) |  
