@@ -5,6 +5,6 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 ### 新领域应用
 
 
-| Read | Year | Name                                                         | Brief introduction                | Citation |
-| ------ | ---- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |
-| ✅ | 2016 | [AlphaGo](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf) | 强化学习出圈   | ICML 2020 |
+| Read | Year | Name                                                         | Brief introduction                | Citation |   PDF link |
+| ------ | ---- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ |  ------- |
+| ✅ | 2016 | Transformer  | 强化学习出圈   | ICML 2020 | [PDF](https://github.com/jxzhangjhu/Robustness-and-Uncertainty-in-NLP/blob/main/pdf/1706.03762.pdf) |  
