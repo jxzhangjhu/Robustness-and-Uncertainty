@@ -18,7 +18,7 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 ### UQ in Text classification 
 
-1. (KDD 2021) **Uncertainty-Aware Reliable Text Classification** [PDF]()
+1. (KDD 2021) **Uncertainty-Aware Reliable Text Classification** [PDF](https://github.com/jxzhangjhu/Robustness-and-Uncertainty-in-NLP/blob/main/pdf/KDD2021.pdf)
 	> first apply evidential uncertainty (ENN) to text classification task; solve OOD detection tasks leveraging the OE method; three datasets (OE) are used as the benchmark; design adversarial examples
 
 
@@ -46,3 +46,10 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 
 1. (2018, Arxiv) **Deep bayesian active learning for natural language processing: Results of a large-scale empirical study**
+
+
+### UQ method 
+
+
+1. (NeurIPS 2018) **Evidential deep learning to quantify classification uncertainty** [PDF](https://github.com/jxzhangjhu/Robustness-and-Uncertainty-in-NLP/blob/main/pdf/NeurIPS-2018-evidential-deep-learning-to-quantify-classification-uncertainty-Paper.pdf)
+
