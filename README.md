@@ -18,4 +18,5 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 ### Text classification 
 
-1. (KDD 2021) 
+1. (KDD 2021) **Uncertainty-Aware Reliable Text Classification** 
+> ddd
