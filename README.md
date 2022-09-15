@@ -57,7 +57,7 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 ### Confidence score
 
-> 09-15-2022 update 
+> 09-15-2022 update from Kumar's literture review 
 
 1. [NeurIPS 2017] Deep ensemble - **Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles** [pdf](https://arxiv.org/abs/1612.01474)
 2. [NeurIPS 2019] - **Addressing Failure Prediction by Learning Model Confidence** - [pdf](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf)
@@ -73,5 +73,16 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 
 6. [ICLR 2017] **A BASELINE FOR DETECTING MISCLASSIFIED AND OUT-OF-DISTRIBUTION EXAMPLES IN NEURAL NETWORKS** [pdf](https://arxiv.org/pdf/1610.02136.pdf), [code](https://github.com/hendrycks/error-detection)
+
+
+7. [ICML 2015] **Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks** [pdf](https://arxiv.org/pdf/1502.05336.pdf) 
+
+8. [NeurIPS 2018] **Evidential Deep Learning to Quantify Classification Uncertainty** [pdf](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
+
+9. [arxiv] **The Case for Bayesian Deep Learning** [pdf](https://arxiv.org/pdf/2001.10995.pdf) 
+
+
+### Confidence score + UQ + OOD + Generalization - SOTA work summary 
+
 
 
