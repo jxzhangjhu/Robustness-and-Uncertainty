@@ -85,4 +85,7 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 ### Confidence score + UQ + OOD + Generalization - SOTA work summary 
 
 
+#### workshops 
+
+1. [NeurIPS 2021] - [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
 
