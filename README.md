@@ -81,11 +81,17 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 9. [arxiv] **The Case for Bayesian Deep Learning** [pdf](https://arxiv.org/pdf/2001.10995.pdf) 
 
+10. [IBM UQ] **Uncertainty Quantification 360: A Holistic Toolkit for Quantifying and Communicating the Uncertainty of AI** - [pdf](https://arxiv.org/pdf/2106.01410.pdf)
+
 
 ### Confidence score + UQ + OOD + Generalization - SOTA work summary 
 
+1. [Docuemnt AI application] - [HYCEDIS: HYbrid Confidence Engine for Deep DocumentIntelligence System](https://document-intelligence.github.io/DI-2021/files/di-2021_final_8.pdf)
 
-#### workshops 
+> 看上去挺有意思的，关于document AI 的workshop best paper 
+
+
+#### Workshops 
 
 1. [NeurIPS 2021] - [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
 2. [NeurIPS 2021] - [Out-of-distribution generalization and adaptation in natural and artificial intelligence](https://docs.neurodata.io/ood-workshop/)
