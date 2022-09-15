@@ -53,3 +53,25 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 1. (NeurIPS 2018) **Evidential deep learning to quantify classification uncertainty** [PDF](https://github.com/jxzhangjhu/Robustness-and-Uncertainty-in-NLP/blob/main/pdf/NeurIPS-2018-evidential-deep-learning-to-quantify-classification-uncertainty-Paper.pdf)
 
+
+
+### Confidence score
+
+> 09-15-2022 update 
+
+1. [NeurIPS 2017] Deep ensemble - **Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles** [pdf](https://arxiv.org/abs/1612.01474)
+2. [NeurIPS 2019] - **Addressing Failure Prediction by Learning Model Confidence** - [pdf](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf)
+3. [Arxiv] - **Learning Confidence for Out-of-Distribution Detection in Neural Networks** [pdf](https://arxiv.org/pdf/1802.04865.pdf) -[code](https://github.com/uoguelph-mlrg/confidence_estimation) 
+
+> 被引了366+ 有code， 好像是ICML，但是没过，挺有意思的paper 
+
+4. [NeurIPS 2020] **Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness** - [pdf](https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf) 
+
+> Google的工作，distance awareness 的
+
+5. [ICLR 2020] **Towards neural networks that provably know when they don't know** -[pdf](https://openreview.net/attachment?id=ByxGkySKwH&name=original_pdf), -[code](https://github.com/AlexMeinke/certified-certain-uncertainty)
+
+
+6. [ICLR 2017] **A BASELINE FOR DETECTING MISCLASSIFIED AND OUT-OF-DISTRIBUTION EXAMPLES IN NEURAL NETWORKS** [pdf](https://arxiv.org/pdf/1610.02136.pdf), [code](https://github.com/hendrycks/error-detection)
+
+
