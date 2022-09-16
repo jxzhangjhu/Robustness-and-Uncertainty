@@ -109,6 +109,11 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 - [NeurIPS 2021] - Sheheryar Zaidi*, Arber Zela*, Thomas Elsken, Chris Holmes, Frank Hutter and Yee Whye Teh.  Neural Ensemble Search for Uncertainty Estimation and Dataset Shift - [pdf](https://arxiv.org/abs/2006.08573), -[code](https://github.com/automl/nes)
 
 
+- [Benchmark] - Uncertainty Baselines:Benchmarks for Uncertainty & Robustness in Deep Learning [pdf](https://arxiv.org/pdf/2106.04015.pdf) - [code](https://github.com/google/uncertainty-baselines)
+
+- [workshop] On Feature Collapse and Deep Kernel Learning for Single Forward Pass Uncertainty [pdf](http://bayesiandeeplearning.org/2021/papers/28.pdf), [code](https://github.com/y0ast/DUE)
+
+- [workshop]  Haiwen Huang, Joost van Amersfoort, Yarin Gal. Decomposing Representations for Deterministic Uncertainty Estimation [pdf](http://bayesiandeeplearning.org/2021/papers/41.pdf)
 
 
 2. [NeurIPS 2021] - [Out-of-distribution generalization and adaptation in natural and artificial intelligence](https://docs.neurodata.io/ood-workshop/)
@@ -121,7 +126,7 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 
 
-### New topics 
+### New UQ topics 
 
 1. Implicit neural representations [awesome github](https://github.com/jxzhangjhu/awesome-implicit-representations)
 
@@ -135,9 +140,13 @@ This is immediately useful for a number of applications, such as super-resolutio
 
 Another key promise of implicit neural representations lie in algorithms that directly operate in the space of these representations. In other words: What's the "convolutional neural network" equivalent of a neural network operating on images represented by implicit representations?
 
+2. Neural Tangent Kernel [blog](https://lilianweng.github.io/posts/2022-09-08-ntk/)
+
+- [workshop] Fast Finite Width Neural Tangent Kernel - [pdf](https://openreview.net/forum?id=zLb9oSWy933)
+
 
 ### UQ people 
 
 1. Yee Whye Teh  [google scholar](https://scholar.google.com/citations?hl=en&user=y-nUzMwAAAAJ&view_op=list_works&sortby=pubdate)
-
+2. Yarin Gal [google scholar](https://scholar.google.nl/citations?hl=en&user=SIayDoQAAAAJ&view_op=list_works&sortby=pubdate)
 
