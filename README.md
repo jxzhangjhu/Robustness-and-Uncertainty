@@ -91,6 +91,21 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 > document AI workshop best paper 
 
 
+
+
+
+### Uncertainty-aware machine learning - from Kumar's share
+
+> This is very interesting paper and great topics. 
+
+- Paper -  "Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods" [pdf](https://link.springer.com/article/10.1007/s10994-021-05946-3), [code](https://github.com/tfmortie/uaml), [slides](https://www.gdsd.statistik.uni-muenchen.de/2021/gdsd_huellermeier.pdf)
+
+
+
+
+
+
+
 #### Workshops 
 
 <!-- 1. [NeurIPS 2021] - [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
