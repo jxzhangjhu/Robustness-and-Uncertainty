@@ -63,7 +63,7 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 2. [NeurIPS 2019] - **Addressing Failure Prediction by Learning Model Confidence** - [pdf](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf)
 3. [Arxiv] - **Learning Confidence for Out-of-Distribution Detection in Neural Networks** [pdf](https://arxiv.org/pdf/1802.04865.pdf) -[code](https://github.com/uoguelph-mlrg/confidence_estimation) 
 
-> 被引了366+ 有code， 好像是ICML，但是没过，挺有意思的paper 
+> high citations
 
 4. [NeurIPS 2020] **Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness** - [pdf](https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf) 
 
@@ -88,7 +88,7 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 1. [Docuemnt AI application] - [HYCEDIS: HYbrid Confidence Engine for Deep DocumentIntelligence System](https://document-intelligence.github.io/DI-2021/files/di-2021_final_8.pdf)
 
-> 看上去挺有意思的，关于document AI 的workshop best paper 
+> document AI workshop best paper 
 
 
 #### Workshops 
@@ -117,7 +117,25 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 
 2. [NeurIPS 2021] - [Out-of-distribution generalization and adaptation in natural and artificial intelligence](https://docs.neurodata.io/ood-workshop/)
-3. [NeurIPS 2021] - [Distribution shifts: connecting methods and applications (DistShift)](https://neurips.cc/Conferences/2021/Schedule?showEvent=21859)
+
+> all invited discussion and panel. No paper submissions. Many big names 
+
+3. [NeurIPS 2021] - [Distribution shifts: connecting methods and applications (DistShift)](https://sites.google.com/view/distshift2021)
+
+- A Closer Look at Distribution Shifts and Out-of-Distribution Generalization on Graphs [pdf](https://openreview.net/pdf?id=XvgPGWazqRH)
+
+- Mix-MaxEnt: Improving Accuracy and Uncertainty Estimates of Deterministic Neural Networks [pdf](https://openreview.net/pdf?id=hlVgM8XcssV)
+- Ensembles and Cocktails: Robust Finetuning for Natural Language Generation [pdf](https://openreview.net/pdf?id=qXucB21w1C3)
+
+- NUQ: Nonparametric Uncertainty Quantification for Deterministic Neural Networks [pdf](https://openreview.net/forum?id=saNgDizIODl&referrer=%5Bthe%20profile%20of%20Maxim%20Panov%5D(%2Fprofile%3Fid%3D~Maxim_Panov1))
+
+> disentangle explicitly \textit{aleatoric} and \textit{epistemic} uncertainties
+
+- Reliable Graph Neural Networks for Drug Discovery Under Distributional Shift  - [pdf](https://openreview.net/pdf?id=311QRRkfrep)
+
+- [ICLR 2021] A Fine-Grained Analysis on Distribution Shift - [pdf](https://openreview.net/forum?id=Dl4LetuLdyK)
+
+
 4. [NeurIPS 2021] - [Your Model is Wrong: Robustness and misspecification in probabilistic modeling](https://neurips.cc/Conferences/2021/Schedule?showEvent=21872)
 5. [ICML 2022] - [Beyond Bayes: Paths Towards Universal Reasoning Systems](https://beyond-bayes.github.io/)
 6. [ICML 2022] - [Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/Conferences/2022/Schedule?showEvent=13460)
@@ -147,6 +165,7 @@ Another key promise of implicit neural representations lie in algorithms that di
 
 ### UQ people 
 
-1. Yee Whye Teh  [google scholar](https://scholar.google.com/citations?hl=en&user=y-nUzMwAAAAJ&view_op=list_works&sortby=pubdate)
-2. Yarin Gal [google scholar](https://scholar.google.nl/citations?hl=en&user=SIayDoQAAAAJ&view_op=list_works&sortby=pubdate)
+1. Yee Whye Teh - Oxford [google scholar](https://scholar.google.com/citations?hl=en&user=y-nUzMwAAAAJ&view_op=list_works&sortby=pubdate)
+2. Yarin Gal - Oxford [google scholar](https://scholar.google.nl/citations?hl=en&user=SIayDoQAAAAJ&view_op=list_works&sortby=pubdate)
+3. Percy Liang - Stanford [google scholar](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en)
 
