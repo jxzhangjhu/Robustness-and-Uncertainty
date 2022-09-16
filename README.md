@@ -106,6 +106,8 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 - 2022 - Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh. UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography - [pdf](https://arxiv.org/pdf/2202.10847.pdf) 
 > this is very new work from Oxford group.  INR can be leveraged a little more?  no code 
 
+- [NeurIPS 2021] - Sheheryar Zaidi*, Arber Zela*, Thomas Elsken, Chris Holmes, Frank Hutter and Yee Whye Teh.  Neural Ensemble Search for Uncertainty Estimation and Dataset Shift - [pdf](https://arxiv.org/abs/2006.08573), -[code](https://github.com/automl/nes)
+
 
 
 
@@ -118,5 +120,24 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 
 
+
+### New topics 
+
+1. Implicit neural representations [awesome github](https://github.com/jxzhangjhu/awesome-implicit-representations)
+
+> - **What are implicit neural representations?**
+Implicit Neural Representations (sometimes also referred to as coordinate-based representations) are a novel way to parameterize signals of all kinds. Conventional signal representations are usually discrete - for instance, images are discrete grids of pixels, audio signals are discrete samples of amplitudes, and 3D shapes are usually parameterized as grids of voxels, point clouds, or meshes. In contrast, Implicit Neural Representations parameterize a signal as a continuous function that maps the domain of the signal (i.e., a coordinate, such as a pixel coordinate for an image) to whatever is at that coordinate (for an image, an R,G,B color). Of course, these functions are usually not analytically tractable - it is impossible to "write down" the function that parameterizes a natural image as a mathematical formula. Implicit Neural Representations thus approximate that function via a neural network.
+
+- **Why are they interesting?**
+Implicit Neural Representations have several benefits: First, they are not coupled to spatial resolution anymore, the way, for instance, an image is coupled to the number of pixels. This is because they are continuous functions! Thus, the memory required to parameterize the signal is independent of spatial resolution, and only scales with the complexity of the underyling signal. Another corollary of this is that implicit representations have "infinite resolution" - they can be sampled at arbitrary spatial resolutions.
+
+This is immediately useful for a number of applications, such as super-resolution, or in parameterizing signals in 3D and higher dimensions, where memory requirements grow intractably fast with spatial resolution. Further, generalizing across neural implicit representations amounts to learning a prior over a space of functions, implemented via learning a prior over the weights of neural networks - this is commonly referred to as meta-learning and is an extremely exciting intersection of two very active research areas! Another exciting overlap is between neural implicit representations and the study of symmetries in neural network architectures - for intance, creating a neural network architecture that is 3D rotation-equivariant immediately yields a viable path to rotation-equivariant generative models via neural implicit representations.
+
+Another key promise of implicit neural representations lie in algorithms that directly operate in the space of these representations. In other words: What's the "convolutional neural network" equivalent of a neural network operating on images represented by implicit representations?
+
+
+### UQ people 
+
+1. Yee Whye Teh  [google scholar](https://scholar.google.com/citations?hl=en&user=y-nUzMwAAAAJ&view_op=list_works&sortby=pubdate)
 
 
