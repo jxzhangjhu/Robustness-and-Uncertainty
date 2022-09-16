@@ -93,11 +93,30 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 #### Workshops 
 
+<!-- 1. [NeurIPS 2021] - [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
+2. [NeurIPS 2021] - [Out-of-distribution generalization and adaptation in natural and artificial intelligence](https://docs.neurodata.io/ood-workshop/)
+3. [NeurIPS 2021] - [Distribution shifts: connecting methods and applications (DistShift)](https://neurips.cc/Conferences/2021/Schedule?showEvent=21859)
+4. [NeurIPS 2021] - [Your Model is Wrong: Robustness and misspecification in probabilistic modeling](https://neurips.cc/Conferences/2021/Schedule?showEvent=21872)
+5. [ICML 2022] - [Beyond Bayes: Paths Towards Universal Reasoning Systems](https://beyond-bayes.github.io/)
+6. [ICML 2022] - [Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/Conferences/2022/Schedule?showEvent=13460)
+7. [ICML 2022] - [Principles of Distribution Shift (PODS)](https://sites.google.com/view/icml-2022-pods) -->
+
+
 1. [NeurIPS 2021] - [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
+- UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography [pdf](https://arxiv.org/pdf/2202.10847.pdf) 
+> this is very new work from Oxford group.  INR can be leveraged a little more? 
+
+
+
+
 2. [NeurIPS 2021] - [Out-of-distribution generalization and adaptation in natural and artificial intelligence](https://docs.neurodata.io/ood-workshop/)
 3. [NeurIPS 2021] - [Distribution shifts: connecting methods and applications (DistShift)](https://neurips.cc/Conferences/2021/Schedule?showEvent=21859)
 4. [NeurIPS 2021] - [Your Model is Wrong: Robustness and misspecification in probabilistic modeling](https://neurips.cc/Conferences/2021/Schedule?showEvent=21872)
 5. [ICML 2022] - [Beyond Bayes: Paths Towards Universal Reasoning Systems](https://beyond-bayes.github.io/)
 6. [ICML 2022] - [Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/Conferences/2022/Schedule?showEvent=13460)
 7. [ICML 2022] - [Principles of Distribution Shift (PODS)](https://sites.google.com/view/icml-2022-pods)
+
+
+
+
 
