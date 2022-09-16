@@ -103,8 +103,8 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 
 1. [NeurIPS 2021] - [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
-- UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography [pdf](https://arxiv.org/pdf/2202.10847.pdf) 
-> this is very new work from Oxford group.  INR can be leveraged a little more? 
+- 2022 - Francisca Vasconcelos, Bobby He, Nalini Singh, Yee Whye Teh. UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography - [pdf](https://arxiv.org/pdf/2202.10847.pdf) 
+> this is very new work from Oxford group.  INR can be leveraged a little more?  no code 
 
 
 
