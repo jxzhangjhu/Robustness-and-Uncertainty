@@ -136,9 +136,14 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 - [ICLR 2021] A Fine-Grained Analysis on Distribution Shift - [pdf](https://openreview.net/forum?id=Dl4LetuLdyK)
 
 
+
 4. [NeurIPS 2021] - [Your Model is Wrong: Robustness and misspecification in probabilistic modeling](https://neurips.cc/Conferences/2021/Schedule?showEvent=21872)
+> nonparametric methods in Bayesian 
+
 5. [ICML 2022] - [Beyond Bayes: Paths Towards Universal Reasoning Systems](https://beyond-bayes.github.io/)
-6. [ICML 2022] - [Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/Conferences/2022/Schedule?showEvent=13460)
+> causal, reasoning 
+
+6. [ICML 2022] - [Workshop on Distribution-Free Uncertainty Quantification](https://sites.google.com/berkeley.edu/dfuq-22/home)
 7. [ICML 2022] - [Principles of Distribution Shift (PODS)](https://sites.google.com/view/icml-2022-pods)
 
 
