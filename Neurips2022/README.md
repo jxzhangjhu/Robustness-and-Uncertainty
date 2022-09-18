@@ -9,21 +9,21 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 2. **NUQ: Nonparametric Uncertainty Quantification for Deterministic Neural Networks** [pdf](https://arxiv.org/pdf/2202.03101.pdf)
 
-> reject by ICML, ICLR, no code 
+	> reject by ICML, ICLR, no code 
 
 3. **Training Uncertainty-Aware Classifiers with Conformalized Deep Learning** [pdf](https://arxiv.org/pdf/2205.05878.pdf), [youtube](https://www.youtube.com/watch?v=RJ7ShciZq2s)
 
 4. **Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation** [pdf](https://arxiv.org/abs/2203.06102)
 
-> from LMU team, but the arxiv is not the final version 
+	> from LMU team, but the arxiv is not the final version 
 
 5. Sanyam Kapoor · Wesley Maddox · Pavel Izmailov · Andrew Wilson. **On Uncertainty, Tempering, and Data Augmentation in Bayesian Classification**, [pdf](https://arxiv.org/pdf/2203.16481.pdf), [code](https://github.com/activatedgeek/understanding-bayesian-classification)
 
-> from Andrew Gordon Wilson team, with code 
+	> from Andrew Gordon Wilson team, with code 
 
 6. Jayaraman Thiagarajan · Rushil Anirudh · Vivek Sivaraman Narayanaswamy · Timo Bremer. **Single Model Uncertainty Estimation via Stochastic Data Centering**, [pdf](https://arxiv.org/pdf/2207.07235.pdf)
 
-> LLNL team without code 
+	> LLNL team without code 
 
 7. Swami Sankaranarayanan · Anastasios Angelopoulos · Stephen Bates · Yaniv Romano · Phillip Isola. **Semantic uncertainty intervals for disentangled latent spaces** [pdf](https://arxiv.org/pdf/2207.10074.pdf)
 
