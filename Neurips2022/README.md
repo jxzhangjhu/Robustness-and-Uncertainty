@@ -56,6 +56,11 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 	> very related, that's what we expect to investigate in industry! One related work - [ICLR2021] UNCERTAINTY IN GRADIENT BOOSTING VIA ENSEMBLES [pdf](https://arxiv.org/pdf/2006.10562.pdf)
 
+	> related work - [ICML 2020] Tony Duan*, Anand Avati*, Daisy Yi Ding, Sanjay Basu, Andrew Ng, Alejandro Schuler. **NGBoost: Natural Gradient Boosting for Probabilistic Prediction**, [pdf](https://arxiv.org/abs/1910.03225), [code](https://github.com/stanfordmlgroup/ngboost)
+
+	> [KDD 2021] Olivier Sprangers, Sebastian Schelter, Maarten de Rijke. **Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression**, [pdf](https://arxiv.org/abs/2106.01682), [code](https://github.com/elephaint/pgbm)
+
+
 16. Jonathan Wenger · Geoff Pleiss · Marvin Pförtner · Philipp Hennig · John Cunningham. **Posterior and Computational Uncertainty in Gaussian Processes**, [pdf](https://arxiv.org/pdf/2205.15449.pdf), [code](https://github.com/jonathanwenger/itergp)
 
 17. Zongbo Han · Zhipeng Liang · Fan Yang · Liu Liu · Lanqing Li · Yatao Bian · Peilin Zhao · Bingzhe Wu · Changqing Zhang · Jianhua Yao. **UMIX: Improving Importance Weighting for Subpopulation Shift via Uncertainty-Aware Mixup**. no pdf 
