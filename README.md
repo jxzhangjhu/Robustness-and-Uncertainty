@@ -183,9 +183,12 @@ Another key promise of implicit neural representations lie in algorithms that di
 - [workshop] Fast Finite Width Neural Tangent Kernel - [pdf](https://openreview.net/forum?id=zLb9oSWy933)
 
 
+3. UQ in Machine learning 
+
 ### UQ people 
 
 1. Yee Whye Teh - Oxford [google scholar](https://scholar.google.com/citations?hl=en&user=y-nUzMwAAAAJ&view_op=list_works&sortby=pubdate)
 2. Yarin Gal - Oxford [google scholar](https://scholar.google.nl/citations?hl=en&user=SIayDoQAAAAJ&view_op=list_works&sortby=pubdate)
 3. Percy Liang - Stanford [google scholar](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en)
+4. Eyke Hüllermeier - LMU [google scholar](https://scholar.google.fi/citations?hl=fil&user=usVJeNN3xFAC&view_op=list_works&sortby=pubdate)
 
