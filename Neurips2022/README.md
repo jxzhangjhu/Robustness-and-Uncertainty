@@ -32,29 +32,29 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 
 9. Minqi Jiang · Michael Dennis · Jack Parker-Holder · Andrei Lupu · Heinrich Küttler · Edward Grefenstette · Tim Rocktäschel · Jakob Foerster. **Grounding Aleatoric Uncertainty in Unsupervised Environment Design**, [pdf](https://arxiv.org/pdf/2207.05219.pdf)
 
-> ICLR reject, it is RL + UQ 
+	> ICLR reject, it is RL + UQ 
 
 10. Navid Ansari · Nima Vahidi Ferdowsi · Hans-peter Seidel · Vahid Babaei. **Autoinverse: Uncertainty Aware Inversion of Neural Networks**, [pdf](https://arxiv.org/pdf/2208.13780.pdf), [code](https://gitlab.mpi-klsb.mpg.de/nansari/autoinverse)
 
-> saw this paper previously 
+	> saw this paper previously 
 
 11. Andrew Jesson · Alyson Douglas · Peter Manshausen · Nicolai Meinshausen · Philip Stier · Yarin Gal · Uri Shalit. **Scalable Sensitivity and Uncertainty Analyses for Causal-Effect Estimates of Continuous-Valued Interventions**, [pdf](https://arxiv.org/pdf/2204.10022.pdf), [code](https://github.com/anndvision/overcast)
 
-> Yarin Gal's work recenrtly, about causal inference using sensivity analysis and uncertainty analysis 
+	> Yarin Gal's work recenrtly, about causal inference using sensivity analysis and uncertainty analysis 
 
 12. Guy Tennenholtz · Shie Mannor. **Uncertainty Estimation Using Riemannian Model Dynamics**, no pdf 
 
 13. Guiliang Liu · Yudong Luo · Oliver Schulte · Pascal Poupart. **Uncertainty-Aware Reinforcement Learning for Risk-Sensitive Player Evaluation in Sports Game**, no pdf
 
-> RL + UQ 
+	> RL + UQ 
 
 14. Zifan Wu · Chao Yu · Chen Chen · Jianye Hao · Hankz Hankui Zhuo. **Plan To Predict: Learning an Uncertainty-Foreseeing Model For Model-Based Reinforcement Learning**, no pdf
 
-> RL + UQ 
+	> RL + UQ 
 
 15. Jonathan Brophy · Daniel Lowd. **Instance-Based Uncertainty Estimation for Gradient-Boosted Regression Trees**. [pdf](https://arxiv.org/pdf/2205.11412.pdf), [code](https://github.com/jjbrophy47/ibug)
 
-> very related, that's what we expect to investigate in industry! One related work - [ICLR2021] UNCERTAINTY IN GRADIENT BOOSTING VIA ENSEMBLES [pdf](https://arxiv.org/pdf/2006.10562.pdf)
+	> very related, that's what we expect to investigate in industry! One related work - [ICLR2021] UNCERTAINTY IN GRADIENT BOOSTING VIA ENSEMBLES [pdf](https://arxiv.org/pdf/2006.10562.pdf)
 
 16. Jonathan Wenger · Geoff Pleiss · Marvin Pförtner · Philipp Hennig · John Cunningham. **Posterior and Computational Uncertainty in Gaussian Processes**, [pdf](https://arxiv.org/pdf/2205.15449.pdf), [code](https://github.com/jonathanwenger/itergp)
 
