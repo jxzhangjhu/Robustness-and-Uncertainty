@@ -1,7 +1,7 @@
 # Robustness and Uncertainty in NeurIPS 2022 
 Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP, CV, multimodality
 
-
+> topic fresh is important. Many traditional topics are not welcome to publish in NeurIPS!!! 
 
 ## Key words - Uncertainty 
 
@@ -44,4 +44,21 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 14. Zifan Wu · Chao Yu · Chen Chen · Jianye Hao · Hankz Hankui Zhuo. **Plan To Predict: Learning an Uncertainty-Foreseeing Model For Model-Based Reinforcement Learning**, no pdf
 > RL + UQ 
 
-15. Jonathan Brophy · Daniel Lowd. 
+15. Jonathan Brophy · Daniel Lowd. **Instance-Based Uncertainty Estimation for Gradient-Boosted Regression Trees**. [pdf](https://arxiv.org/pdf/2205.11412.pdf), [code](https://github.com/jjbrophy47/ibug)
+> very related, that's what we expect to investigate in industry! 
+
+16. Jonathan Wenger · Geoff Pleiss · Marvin Pförtner · Philipp Hennig · John Cunningham. **Posterior and Computational Uncertainty in Gaussian Processes**, [pdf](https://arxiv.org/pdf/2205.15449.pdf), [code](https://github.com/jonathanwenger/itergp)
+
+17. Zongbo Han · Zhipeng Liang · Fan Yang · Liu Liu · Lanqing Li · Yatao Bian · Peilin Zhao · Bingzhe Wu · Changqing Zhang · Jianhua Yao. **UMIX: Improving Importance Weighting for Subpopulation Shift via Uncertainty-Aware Mixup**. no pdf 
+
+
+
+
+## Key words - conformal (6)
+## Key words - flow (20+)
+## Key words - robustness(50)
+## Key words - disentangle (20+)
+## Key words - diffusiuon (35+)
+## Key words - score (13)
+
+<!-- 还是这些东西活，topic很重要！ -->
