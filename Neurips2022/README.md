@@ -10,7 +10,7 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 2. **NUQ: Nonparametric Uncertainty Quantification for Deterministic Neural Networks** [pdf](https://arxiv.org/pdf/2202.03101.pdf)
 > reject by ICML, ICLR, no code 
 
-3. **Training Uncertainty-Aware Classifiers with Conformalized Deep Learning** [pdf](https://arxiv.org/pdf/2205.05878.pdf)
+3. **Training Uncertainty-Aware Classifiers with Conformalized Deep Learning** [pdf](https://arxiv.org/pdf/2205.05878.pdf), [youtube](https://www.youtube.com/watch?v=RJ7ShciZq2s)
 
 4. **Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation** [pdf](https://arxiv.org/abs/2203.06102)
 > from LMU team, but the arxiv is not the final version 
@@ -45,7 +45,8 @@ Robustness, uncertainty, safety and trustworthiness in deep learning, e.g., NLP,
 > RL + UQ 
 
 15. Jonathan Brophy · Daniel Lowd. **Instance-Based Uncertainty Estimation for Gradient-Boosted Regression Trees**. [pdf](https://arxiv.org/pdf/2205.11412.pdf), [code](https://github.com/jjbrophy47/ibug)
-> very related, that's what we expect to investigate in industry! 
+
+> very related, that's what we expect to investigate in industry! One related work - [ICLR2021] UNCERTAINTY IN GRADIENT BOOSTING VIA ENSEMBLES [pdf](https://arxiv.org/pdf/2006.10562.pdf)
 
 16. Jonathan Wenger · Geoff Pleiss · Marvin Pförtner · Philipp Hennig · John Cunningham. **Posterior and Computational Uncertainty in Gaussian Processes**, [pdf](https://arxiv.org/pdf/2205.15449.pdf), [code](https://github.com/jonathanwenger/itergp)
 
