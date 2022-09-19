@@ -35,10 +35,13 @@ if you think we missed a paper, please send us an email at:
 ## Survey
 **Arxiv**
 - A Survey on Uncertainty Reasoning and Quantification for Decision Making: Belief Theory Meets Deep Learning. [[arxiv2022]](https://arxiv.org/abs/2206.05675)
+  > very nice survey but focus on decision making more 
 - Ensemble deep learning: A review. [[arxiv2021]](https://arxiv.org/abs/2104.02395)
 - A survey of uncertainty in deep neural networks.[[arxiv2021]](https://arxiv.org/abs/2107.03342)
 - A Survey on Evidential Deep Learning For Single-Pass Uncertainty Estimation [[arxiv2021]](https://arxiv.org/abs/2110.03051)
-  > ICLR reject, mainly focus on 
+  > ICLR reject, mainly focus on evidiential DL, short survey 
+- Uncertainty Quantification in Scientific Machine Learning: Methods, Metrics, and Comparisons. [[arxiv2022]](https://arxiv.org/abs/2201.07766)
+  > sciML setting, focus on PDE/ODE aspects
 
 
 **Conference**
