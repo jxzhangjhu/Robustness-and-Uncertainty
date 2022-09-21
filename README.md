@@ -191,4 +191,5 @@ Another key promise of implicit neural representations lie in algorithms that di
 2. Yarin Gal - Oxford [google scholar](https://scholar.google.nl/citations?hl=en&user=SIayDoQAAAAJ&view_op=list_works&sortby=pubdate)
 3. Percy Liang - Stanford [google scholar](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en)
 4. Eyke Hüllermeier - LMU [google scholar](https://scholar.google.fi/citations?hl=fil&user=usVJeNN3xFAC&view_op=list_works&sortby=pubdate)
+5. Joost van Amersfoort - Oxford [google scholar](https://scholar.google.nl/citations?view_op=list_works&hl=en&hl=en&user=C0LaV8IAAAAJ&sortby=pubdate)
 
