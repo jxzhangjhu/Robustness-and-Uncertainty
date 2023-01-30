@@ -193,3 +193,8 @@ Another key promise of implicit neural representations lie in algorithms that di
 4. Eyke Hüllermeier - LMU [google scholar](https://scholar.google.fi/citations?hl=fil&user=usVJeNN3xFAC&view_op=list_works&sortby=pubdate)
 5. Joost van Amersfoort - Oxford [google scholar](https://scholar.google.nl/citations?view_op=list_works&hl=en&hl=en&user=C0LaV8IAAAAJ&sortby=pubdate)
 
+
+### NLP pepople
+
+1. Sebastian Ruder - Google [google scholar](https://scholar.google.de/citations?hl=en&user=8ONXPV8AAAAJ&view_op=list_works&sortby=pubdate)
+
